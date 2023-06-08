@@ -1,4 +1,13 @@
-### Hi there 👋
+# I am O. Krypczyk
+
+Software developer by day, artist by night.
+
+Well versed in the following languages:
+- C(++)
+- JavaScript
+- Python
+- HTML/CSS
+- Lua
 
 <!--
 **okryp/okryp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
